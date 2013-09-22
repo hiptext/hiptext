@@ -1,4 +1,4 @@
-### Hiptext.js
+﻿### Hiptext.js
 Hiptext.js is a JavaScript library for converting Markdown into HTML
 <hr />
 <ul>
@@ -7,6 +7,6 @@ Hiptext.js is a JavaScript library for converting Markdown into HTML
 </ul>
 
 ### Functions that are currently implimented / working
-As of version `prerelease-0.0.3` the following functions are implimented:
+As of version `prerelease-0.0.4` the following functions are implimented:
 - Core parse API (eg. `Hiptext.parse(MarkdownTextToConvert)`)
 - Converts raw symbols into their respective HTML & symbols. For example: converts `∞` into `&infin;`

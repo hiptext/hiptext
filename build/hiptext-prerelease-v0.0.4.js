@@ -1,4 +1,4 @@
-// Hiptext Version 0.0.3 (PRERELEASE)
+﻿// Hiptext Version 0.0.4 (PRERELEASE)
 //Copyright (c) 2013 Hiptext JS
 
 //Permission is hereby granted, free of charge, to any person obtaining a copy of
@@ -71,5 +71,6 @@ var sortSymbols = (function(data) {
 var Hiptext = {
     parse: function(code) {
         code = sortSymbols(code);
+        return code;
     }
 };
